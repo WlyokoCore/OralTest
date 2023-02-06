@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OralTest>
+	<Ques id="1">
+	    <Mark>0</Mark>
+		<Question>飞行中积冰的条件是什么？</Question>
+		<Answer>1.过冷水滴2.大气温度低于零度3.机身温度低于零度 
+                </Answer>
+           
+	</Ques>
+	<Ques id="2">
+	    <Mark>0</Mark>
+		<Question>飞行中积2冰的条件是什么？</Question>
+		<Answer>1.过冷水滴2.大气温度2低于零度3.机身温度低于零度 
+                </Answer>
+           
+	</Ques>
+	<Ques id="3">
+	    <Mark>0</Mark>
+		<Question>飞行中积3冰的条件是什么？</Question>
+		<Answer>1.过冷水滴2.大气温度低3于零度3.机身温度低于零度 
+                </Answer>
+           
+	</Ques>
+</OralTest>

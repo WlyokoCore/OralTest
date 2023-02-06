@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1">
+		<Question>飞行中积冰的条件是什么？</Question>
+		<Answer>
+
+
+                                     1.过冷水滴
+                                     2.大气温度低于零度
+                                     3.机身温度低于零度 </Answer>
+	</book>
+	<book id="2">
+		<name>安徒生童话</name>
+		<year>2004</year>
+		<price>77</price>
+		<language>English</language>
+	</book>
+</bookstore>

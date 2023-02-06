@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    android:label="整本口试题"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.example.oraltest.FirstFragment"
+        android:label="飞行口试题OralTest"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_thirdFragment"
+            app:destination="@id/ThirdFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_forthFragment"
+            app:destination="@id/forthFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.example.oraltest.SecondFragment"
+        android:label="模拟口试"
+        tools:layout="@layout/fragment_second">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ThirdFragment"
+        android:name="com.example.oraltest.ThirdFragment"
+        android:label="标记口试题"
+        tools:layout="@layout/fragment_third">
+        <action
+            android:id="@+id/action_ThirdFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/forthFragment"
+        android:name="com.example.oraltest.ForthFragment"
+        android:label="抽查口试题">
+        <action
+            android:id="@+id/action_forthFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+</navigation>

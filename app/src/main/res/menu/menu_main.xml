@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="飞行口试题OralTest">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="制作：WlyokoCore"
+        app:showAsAction="never" />
+</menu>

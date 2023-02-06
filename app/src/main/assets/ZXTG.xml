@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OralTest>
+	<Ques id="1">
+	    <Mark>1</Mark>
+		<Question>
+			低能见度起飞（低能见度起飞（LVTO, Low visibility take-off）：是指 RVR 低于什么值时的起飞？ LVTO, Low visibility take-off）：是指 RVR 低于什么值时的起飞？
+
+		</Question>
+		<Answer>
+			RVR 低于 400 米时的起飞。
+
+		</Answer>
+           
+	</Ques>
+	<Ques id="1">
+	    <Mark>1</Mark>
+		<Question>
+			运行涉及到高度时，我们经常使用平均海平面，机场标高，入口标高等参考基准。请问 MDA 是以什么基准？</Question>
+		<Answer>a.
+
+			MDA 以平均海平面为基准。
+
+		</Answer>
+           
+	</Ques>
+	<Ques id="1">
+	    <Mark>0</Mark>
+		<Question>
+			运行涉及到高度时，我们经常使用平均海平面，机场标高，入口标高等参考基准。请问 MDH 是以什么基准？
+
+		</Question>
+		<Answer>
+			MDH 以机场标高为基准，如果入口标高在机场标高之下 2 米以上，则以入口标高为基 准。盘旋进近的 MDH 是以机场标高为基准。
+
+
+		</Answer>
+           
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			运行涉及到高度时，我们经常使用平均海平面，机场标高，入口标高等高度参 考基准。 请问 DA 是以什么基准？
+		</Question>
+		<Answer>
+			DA 以平均海平面为基准。
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			运行涉及到高度时，我们经常使用平均海平面，机场标高，入口标高等参考基 准。请 问 DH 是以什么基准？
+		</Question>
+		<Answer>
+			DH 以入口标高为基准。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当我们从着陆跑道入口看时，跑道中线灯为白色。请问跑道最后的 3000 英尺到 跑道末 端，中线灯的颜色如何变化？
+		</Question>
+		<Answer>
+			跑道最后 3000 英尺：接下来的 2000 英尺白灯开始和红灯交替；在跑道最后 1000 英 尺，所有跑道中线灯都为红色。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞当你在落地滑跑过程中看到第一个红色中线灯，说明距跑道头大约还有多远？
+		</Question>
+		<Answer>
+			落地滑跑过程中看到第一个红色中线灯说明距跑道头约 900 米
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			典型的全天候运行机场灯光设备中包括障碍物和跑道末端灯、跑道入口灯和滑 行道中 线灯、跑道边灯和进近灯、滑行道边灯、中间等待位置灯。作为机组，你知道它们分别 是什么颜色的？
+		</Question>
+		<Answer>
+			障碍物和跑道末端灯：红色
+			跑道入口灯和滑行道中线灯：绿色
+			跑道边灯和进近灯：白色
+			滑行道边灯：蓝色
+			中间等待灯：黄色
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			应用 CDFA 技术，当我们复飞时，我们可以在 MAPt 点之前开始转弯机动吗？
+		</Question>
+		<Answer>
+			不允许，任何复飞过程中的转弯机动不允许早于 MAPt。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为机长，你知道Ⅰ类运行（CAT Ⅰ）的运行标准中 VIS 和 RVR 的要求是多少？
+		</Question>
+		<Answer>
+			Ⅰ类运行（CAT Ⅰ）：VIS 不小于 800 米或 RVR 不小于 550 米
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			寒冷天气下，当飞行员的视野范围内没有差异明显的地面参照物时，易产生白洞效应。 此时我们该怎么做？
+		</Question>
+		<Answer>
+			当发生白洞效应时应当立即转入仪表飞行。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			冰雾会在静风温度或低于-32℃情况下形成。它最有可能形成在城市区域，还是野外区 域？
+		</Question>
+		<Answer>
+			城市区域。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			日常飞行中，我们经常能看到雷雨云砧，它能从核心开始蔓延至数公里远。你知道它的 主要成分是什么吗？
+		</Question>
+		<Answer>
+			冰晶。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			寒冷天气下，当我们的机翼被冰污染时，飞机的临界迎角和失速速度会有什么变化？
+		</Question>
+		<Answer>
+			临界迎角减小，失速速度增大
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			什么叫露点温度。(AC00-6A)
+		</Question>
+		<Answer>
+			当空气中水汽含量不变且气压一定时，气温降低到使空气达到饱和时的温度，称为露点温度，简称露点。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			结冰会影响翼型的升力系数，最大升力系数(CLmax)会随着结冰会发生什么显著变化？
+		</Question>
+		<Answer>
+			减小。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			我们在寒冷天气飞行时，经常会发现飞机在初始爬升阶段更容易积冰，为什么？
+		</Question>
+		<Answer>
+			因为低速往往会转化为大迎角。这就将飞机的下部和机翼暴露在了结冰条件下，导致比 巡航 过程中更严重的积冰
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在冻雨或冻雾中着陆后，怀疑积冰，是否应该立即收上襟缝翼等操纵面？该如何处置？
+		</Question>
+		<Answer>
+			不应立即收上。 在冻雨或冻雾中着陆后，如果怀疑有积冰，可以暂缓收上襟缝翼等操 纵面，待到位后再确认是否可以收上这些操纵面，待到位后再确认是否可以收上这些操纵面，以防止结构损伤
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在温度低于-20℃时，云基本上就是由冰粒组成的。一般情况下，当存在较多的 冰粒和 较少的液滴时，机体积冰的可能性会降低。这是由于冰粒容易从机身表 面弹开。如果 这时候飞机防冰系统接通，还会积冰吗？
+		</Question>
+		<Answer>
+			会。冰粒会在撞击机体后融化，并在相对温度较低 的后部机体表面上重新冻结
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当我们飞入积状云的云砧部分时，由于冰晶的吸入，可能会导致推力发生什么变化？
+		</Question>
+		<Answer>
+			非指令的推力减少
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞行中我们经常会遇到层状云和积状云，相比较而言，哪种云更容易迅速结冰？
+		</Question>
+		<Answer>
+			积状云
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当我们飞入层状云，遇到了结冰，我们该如何迅速离开结冰区？
+		</Question>
+		<Answer>
+			在层状云中的冰层垂直厚度很少超过 900 米，因此飞机高度改变几百米就可以脱离结 冰区。
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为机组，列举你所知道的与对流天气有关的危险天气现象。
+		</Question>
+		<Answer>
+			较低高度，空速指示器指示将低于实际空速。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，你的飞机的皮托管阻塞，但和它相连的排水口未堵塞。这时空速指示会有什么变 化？
+		</Question>
+		<Answer>
+			空速指示器指示降至零。
+		</Answer>
+	</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		寒冷天气下飞行，当我们需要空中等待时，较快的速度和较慢的速度相比，哪种更容易 产生积冰？
+	</Question>
+	<Answer>
+		较慢的速度更容易产生积冰
+
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		寒冷天气下，在地面，如果你的航空器温度高于外部环境，且油箱不处于全满状态，油 箱内会发生什么不利现象？
+	</Question>
+	<Answer>
+		寒冷的气温将使油箱内冷凝出水
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		作为飞行机组，我们应该对云的构成有一定了解： 在温度低于多少℃时，云基本上就 是由冰粒组成的？
+	</Question>
+	<Answer>
+		低于-20 ℃
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		寒冷天气下，你的飞机爬升期间进入大面积的积状云，此时全温为-3 摄氏度， 突然出 现了失速，但没有任何失速警告，请问可能会是什么原因？
+	</Question>
+	<Answer>
+		失速指示器开关冻结，失速警告系统没有向飞机提供任何失速警告。或，因为翼型上有 冰，污染减小了升力，导致机翼在较低的迎角失速，从而失速发生在失速警告之前，引 发俯仰或横滚不正常
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		秋冬季西伯利亚冷空气南下叫什么锋？春夏暖空气自西南向上推进叫什么锋？春季和 秋季时常会有两个锋面对峙在长江流域，这叫什么锋？请你分别阐述这三个锋面的概念
+	</Question>
+	<Answer>
+		当不同温度、压力或相对湿度的气团相遇，锋 就形成了。 第一个是冷锋：如果移动的 时候冷空气取代暖空气，称为冷锋。
+		第二个是暖锋：如果锋面移动的时候暖空气取代 冷气，称为暖锋。第三个是锢囚锋：当一个较暖气团在两个冷气团之间，并被迫抬升到 更高的高度上，就形成了锢囚锋。
+
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		雷暴中的上升气流可以使充足的大水滴向上运动到冻结层以上，形成过冷水滴。在一定 温度范围内之间，大量过冷水滴会迅速形成明冰，给飞行带来很大的危害。请问这个温 度范围是从多少到多少摄氏度？
+	</Question>
+	<Answer>
+		0 到-15℃
+
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		雷暴附近绕飞时为避免严重积冰，机组应选择低于冻结层的高度，或在温度至少低于零 下多少摄氏度℃的高度？
+	</Question>
+	<Answer>
+		低于零下 15℃
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		进近过程中，在 1000 英尺 AGL 以下如果出现大幅偏差，例如空速或垂直速率变化超过一定值，机组应怀疑有风切变，建议立即执行复飞程序。请问这两个值分别是多少？
+	</Question>
+	<Answer>
+		±15 节，±500 英尺/分钟
+	</Answer>
+</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		风切变的识别对于及时改出至关重要。起飞过程中，在 1000 英尺 AGL 以下如果出 现 大幅偏差，例如空速或垂直速率变化超过一定值，机组应怀疑有风切变，开始执行推荐 的改出程序。请问这两个值分别是多少？
+	</Question>
+	<Answer>
+		±15 节，±500 英尺/分钟
+	</Answer>
+</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			所有的雷暴都可能隐藏有危害性的湍流，较严重的湍流可能会对飞机造成损害。即使没 有冰击雹击电击，建议也不要在雷暴的砧状云下方飞过。请问为什么？
+		</Question>
+		<Answer>
+			该处存在严重的晴空颠簸
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞行中，如果无法绕过雷暴，你作为机长应该怎么决断？
+		</Question>
+		<Answer>
+			应等待或备降，直至雷暴消散
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			如因为某种原因误入了雷暴，此时的对驾驶舱灯光的操作有什么建议？
+		</Question>
+		<Answer>
+			将驾驶舱的灯光调至最亮，避免闪电造成的短时成的短时失明 。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞行中，我们经常会遇到雷暴。做为机组，请你简单列举雷暴对飞机可能造成的危害或 现象。
+		</Question>
+		<Answer>
+			a) 龙卷风、
+			b) 湍流、
+			c) 结冰、
+			d) 冰雹、
+			e) 低云及低能见度、
+			f) 对于高度表的影响、
+			g) 闪电、
+			h) 发动机吸水。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			从驾驶舱目视观察到邻近的云向不同方大范围移动，或烟柱的切变并向不同方飘散，或 在飑线前的滚轴云，这些都意味可能存在什么？
+		</Question>
+		<Answer>
+			风切变
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			2.	在什么时候升力等于重力，推力等于阻力？
+		</Question>
+		<Answer>
+			在稳定等速飞行中，升力等于重力，推力等于阻力。升力和重力的任何不相等将引起爬升率或下降率的变化。在稳定飞行时推力和阻力的任何不相等将引起爬升或下降率的变化。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日飞行，你由于疏忽误入雷暴中，为了减少滞留雷暴时间，此时你该如何选择最佳路 线是？为什么？
+		</Question>
+		<Answer>
+			进入雷暴，不建议回转，直线穿越通常是减少滞留雷暴时间的最佳选择。转弯会增加飞 机的负荷。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日着陆前，塔台告诉你跑道的起飞一边上存在微下击暴流。你在正常拉平过程中遇到 了逐渐增强的逆风切变，此时飞机的性能会发生什么变化？会导致什么风险？
+		</Question>
+		<Answer>
+			性能：逐渐增强的逆风切变增加了指示空速，从而增加了飞机性能。飞机将向上抬头以 减小空速。
+			风险：这种类型的风切变在正常拉平过程中可能减小正常减速率，从而导致平飘过长直 至冲出跑道。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日短五边，你进近中遇到了逐渐增强的顺风切变，此时飞机的性能会发生什么变化？ 会导致飞机运动趋势发生什么变化？
+		</Question>
+		<Answer>
+			性能：逐渐增强的顺风切变将减小指示空速，降低飞机性能。由于速度损失，飞机将向 下低头以增加速度。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当跑道边灯或跑道末端灯不工作时，夜间可否起飞？
+		</Question>
+		<Answer>
+			不可以
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			地面运行时，使用航空器外部灯光系统会让航空器更易于辨认，从而确保安全。请问， 发动机运转时，什么灯光必须打开？
+		</Question>
+		<Answer>
+			防撞灯
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			从跑道上滑跑时，你看到跑道边灯由白色变为黄色，说明什么？
+		</Question>
+		<Answer>
+			说明已到达跑道末端 600m 或跑道长度的三分之 一（二者取小值）
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为飞行员，必须熟悉滑行道的灯光和标志的颜色。请问，滑行道边灯，滑行道中线灯， 滑行道的中线标志，分别是什么颜色？
+		</Question>
+		<Answer>
+			滑行道边灯是蓝色，滑行道中线灯是绿色，滑行道中线标志为黄色线。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			通常在跑道的每个进近端，设置有两条明显的粗的白色条块。请问这两个明显粗的白色 条块是什么？有什么用？
+		</Question>
+		<Answer>
+			跑道的瞄准点标志。为驾驶员操纵飞机着陆提供目视参考。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞行员要加强情景意识，如果无线电异常的安静，机组应该怎么做？
+		</Question>
+		<Answer>
+			应检查无线电设备是否存在故障，或联系管制员
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			接地带灯为白色，对称于跑道中线，从跑道入口开始纵向延伸 900m，标明跑道的大致 接地区域。请问，是否所有的跑道都有接地带灯？什么样的跑道必须设置接地带灯？
+		</Question>
+		<Answer>
+			不是所有跑道都有接地带灯。在Ⅱ类或Ⅲ类精密进近跑道的接地带必须设置接地带灯。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞机在跑道外等待的时候，前轮没有过等待线，但是机头过了等待线，是否可以？为什 么？
+		</Question>
+		<Answer>
+			不可以。未得到空中交通管制的进入跑道许可前，飞机的任何部位均不能越过跑道等待 位置标志的实线。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			地面进入停机坪，当你看到地面指挥人员“急速”伸开两臂和指挥棒，举至头部上方， 交叉挥动指挥棒。请问这个手势信号是什么意思？
+		</Question>
+		<Answer>
+			紧急停住
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组滑行至跑道头准备起飞，观察到附近的风向袋沿跑道的顺风方向吹起了约 15 度。此时你是否能将风向袋作为起飞放行的标准？为什么？你如何处置？
+		</Question>
+		<Answer>
+			不能作为起飞放行的标准。风向袋被风吹后的状态虽然可估算出一定的风速，但由于风 向袋材质的不同，被风吹起的角度不一定对应固定的风速。此时应向管制员了解实时风向风速作为能否起飞的依据。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组在北京机场着陆后，管制员指挥机组沿出口滑行道脱离跑道，飞机刚减速准 备进入出口滑行道，副驾驶就开始收襟翼。请问，这样做正确吗？
+		</Question>
+		<Answer>
+			不正确。着陆后，非必要的通话和操作均应在飞机完全脱离跑道后执行（如切换频率、 收襟翼和调整配平等）
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组着陆后沿出口滑行道脱离跑道时，飞机机头刚进入出口滑行道，副驾驶就报 告脱离跑道。请问，这样正确吗？如不正确，你认为应该什么时候报告脱离跑道？
+		</Question>
+		<Answer>
+			不正确。着陆后脱离跑道时应确保整个飞机包括机尾部分均脱离跑道等待线以外
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组在飞行准备时，发现该机场平面图上有“HS1、HS2…….HS8”等标识。滑行 时，管制员所给的滑行路线正好需要经过 HS1。请问“HS”代表什么意思？机组经过此 处，该如何应对？
+		</Question>
+		<Answer>
+			“HS”代表“热点”，该标志表示在此位置已发生过不安全事件，或者有潜在的相撞和 跑道入侵等风险，需要机组特别注意。驾驶员应认真观察该热点的特点，在滑行至热点 附近时确认滑行指令，并认真观察外部地面标志与其他航空器，避免造成冲突或滑错。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			红色的停止排灯亮起表明所有飞机应该停止，禁止穿越跑道。某日，机组在平行跑道机 场着陆，脱离后需要穿越另一条跑道，此时观察到该跑道前的红色的停止排灯已熄灭， 并观察跑道上无起飞或落地的航空器，机组能否穿越该跑道？如不能，你认为何时才能 穿越？
+		</Question>
+		<Answer>
+			不能。即使停止排灯已熄灭，仍需得到管制员 的穿越指令方可进行穿越。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			跑道中线灯用于标明跑道中线位置，通常沿跑道中线设置。作为飞行员，必须 了解其 颜色随跑道距离变化的特点，请问中线灯的颜色是如何变化的？
+		</Question>
+		<Answer>
+			A.从跑道入口到距跑道末端 900m 处的跑道中 线灯是发可变白光的恒光灯；从距跑道 末端 900m 到 300m 之间的跑道中线灯是交替的可 发变白光和发红色光的恒光灯；从 距跑道末端 300m 到跑道末端是发红色光灯；
+			B.在跑道长度小于 1800m 的情况下，从跑道的可用着陆长度的中点到距跑道末端 300m 处跑道中线灯交替地发可变白色光和红色光。
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			通常情况下 I 类 ILS 的下滑角为 3 度。请在飞行程序设计上，I 类 ILS 的下滑角最大 允 许为多少度吗？
+		</Question>
+		<Answer>
+			3.5 度
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			表飞行中最低扇区高度 MSA 是以无线电导航设施为中心，25NM（46km）的圆的 扇 区内可使用的最低高度。请问，这个最低高度对扇区内所有物体提供的最小 超障余度 是多少英尺？
+		</Question>
+		<Answer>
+			1000 英尺
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			机组进入等待航线飞行，需要为保持程序中所描述的航迹。通常我们以出航边 正切定 位点开始计时。但如果不能确定正切位置，我们该如何计时？
+		</Question>
+		<Answer>
+			如果不能确定正切位置，则在完成出航转弯至 出航航向即开始计时。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			请问，仪表进近程序起始、中间、最后进近航段的主区的最小越障余度分别是 多少？
+		</Question>
+		<Answer>
+			仪表进近起始、中间、最后进近航段最小超障余度分别 300、150、75 米。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			我们在飞行中经常会碰到要执行等待程序。等待程序的出航边的静风飞行时间 跟高度 有关，请根据高度分别说明静风飞行时间。
+		</Question>
+		<Answer>
+			等待的出航边的静风飞行时间不应超过： a) 如果高度在 14000ft 以下，1 分钟；或 b) 在 14000ft 高度以上，1.5 分钟。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某机组执行航班任务从 A 地到 B 地，航路阶段 IFR 飞行，主区使用的最小超障余度 为 300 米（1000FT）,途中要经过一段地区标高为 1550M 左右的山区航路。在该山 区航路 段，你所考虑的最小超障余度应该为多少？
+		</Question>
+		<Answer>
+			600 米(2000 英尺)
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			ILS 进近，航道指示在 1/2 满刻度偏以内，航空器才允许按规定的程序开始下降高度。 请问 VOR 进近，允许的刻度偏移是多少时，才允许按规定的程序开始下降高度？
+		</Question>
+		<Answer>
+			1/2 满刻度偏移
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			标准仪表离场时，请问直线离场的起始离场航迹是在跑道中线两侧各多少度范围以内？
+		</Question>
+		<Answer>
+			15°
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			仪表进近时，我们必须根据航空器的分类选择相应的出航台航迹、限制值等参数。有人 说航空器是参考进近时的指示空速来分类的，请问这种说法正确吗？如不对，请指出正 确答案。
+		</Question>
+		<Answer>
+			不正确。跑道入口处的 Vat 指示空速来分类
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			最后进近航段是从最后进近定位点 FAF 开始，并终止于进近复飞点 MAPt。通常情况下， 其长度最小为 3nm，最佳为 5 海里，但最大不超过多少？
+		</Question>
+		<Answer>
+			10nm
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			除非在仪表进近图上另有说明，请问标准复飞爬升梯度为百分之多少？
+		</Question>
+		<Answer>
+			2.5%
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组在某机场执行 VOR 进近，飞过 FAF 之后到达 MAPt 复飞点之前，由于某 种原因管制员指挥机组复飞，请问机组该如何实施复飞？为什么不可以提前转弯？
+		</Question>
+		<Answer>
+			飞至复飞点后再遵照复飞程序执行飞行。 每个仪表进近程序的复飞程序，为整个复飞 机动飞行提供防止与障碍物相撞的安全保护。
+			为了使航空器保持在保护空域内，程序 要求飞至复飞点后再遵照复飞程序执行飞行。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组执行某机场 NDB 进近，该 NDB 台经校验后指示较为准确。程序转弯时 管制 员给出指令“可以 NDB 进近，目视跑道报告”。此时机组由于没有考虑四边顶风，导致 过 FAF 点时偏五边左侧 8 度。为建立合适的下降剖面，机组刚过 FAF 就立即按高度下 降。请问这样做正确吗？为什么？
+		</Question>
+		<Answer>
+			不正确。如果规定了入航转弯以后进一步的下降，则这种下降必须在航空器已建立在入 航航迹以后才可下降。航空器被认为“已建立”的前提 是:NDB 进近时，在规定的方位 的±5°以内。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			过 FAF 点的最后进近最佳下降梯度为 5.2%或 3 度，那么现代民用喷气运输飞机一 般情 况下接受的最大允许下降梯度是多少？
+		</Question>
+		<Answer>
+			6.1%或 3.5 度
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在没有任何 ATC 指示或地区航行协议时,应答机应设为？
+		</Question>
+		<Answer>
+			2000
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日某机组在执行仪表进近的盘旋着陆过程中失去目视参考，该机组应该如何复飞？
+		</Question>
+		<Answer>
+			从起始爬升开始，在盘旋区内转向至着陆跑道，并上升至盘旋高度及以上，之后立即切 入并执行复飞程序
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，机组做停机检查单时，PM 做到外部灯光时，PF 回答“按需”，请问这种 回答正 确吗？
+		</Question>
+		<Answer>
+			不正确，检查单应答说明实际情况或项目值， 避免不具体回答。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某机组在做进近准备时发现进近程序有 Z,Y,W 等几种，就认为 z 为传统方式，Y 为 RNAV 进近，请问正确吗？
+		</Question>
+		<Answer>
+			不正确，如果同一机场的两个或两个以上程序仅通过无线电导航设备类型无法区分，则 在无线电导航设备类型之后加上一个从 z 开始编号的字母作为后缀。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在进近图中（RDH）是代表什么高？对我们飞行员有何用处？
+		</Question>
+		<Answer>
+			基准高：Reference datum height（RDH） 下滑轨迹或标称垂直航迹延伸至跑道入口处的 高。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			研究表明非精密进近存在较高的可控飞行撞地（CFIT）风险。尽管飞行程序本 身是安全 的，但使用传统的梯级下降技术来执行非精密进近被证实是错误的，为了减少非精密进 近带来的风险，我们在垂直航迹控制上可以采用三种方法来 保证安全。请举例说出一 种方法？
+		</Question>
+		<Answer>
+			连续下降最后进近（CDFA） 2.恒定角下降 3.梯级下降 这些技术中，连续下降最后进近 （CDFA）技术 是优先选择的。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在盲降进近中，I 类盲降和 II 类盲降分别是以什么高度表来确定决断高度（DA） 或决 断高(DH)?
+		</Question>
+		<Answer>
+			I 类进近使用气压高度表； II 类进近使用无线电高度表
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			按照尾流分类，请问航空器的分类有哪些？A330，B737，以及航校训练的 Cessna172， 这三种飞机按尾流分别属于什么类别？
+		</Question>
+		<Answer>
+			重型机，中型机，轻型机。
+			分别属于重型机，中型机，轻型机。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			航空器产生的尾流强度由很多因素决定，你认为其中最重要的两个因素是什么？
+		</Question>
+		<Answer>
+			日常运行中，我们经常遇到不同的速度和构型的飞机。请问针对同一机型，重 量重、 速度慢、光洁形态的飞机，与重量重、速度快、着陆构型的飞机相比， 谁产生的尾流 强度大？
+			重量重、速度慢、光洁形态的飞机产生的尾流 强度大。
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			同一跑道上，你尾随更大的飞机起飞时，对爬升轨迹有什么要求？
+		</Question>
+		<Answer>
+			建议高于前机的爬升轨迹。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			同一跑道，尤其使用非全跑道，你尾随更大的飞机起飞时，对离地点有什么建 议？
+		</Question>
+		<Answer>
+			应关注前机离地点，并控制飞机在到达其离地 点之前起飞。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			为了减小尾流对其他飞机的影响，如果你作为较大的飞机的驾驶员，在进近下 滑道上 应注意什么？
+		</Question>
+		<Answer>
+			较大飞机的驾驶员应该避免高于下滑道的进 近，这样可以减小尾随的飞机进入其尾流 的风险。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			平行跑道有四种运行模式：独立平行仪表进近，相关平行仪表进近，独立平行离场，隔 离平行运行。目前，在我国的重庆机场，一条跑道只用于离场，另一条跑道只用于进近， 该运行属于哪种运行模式？
+		</Question>
+		<Answer>
+			隔离平行运行
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为机组，你知道飞机的尾流强度与飞机的重量和载荷因素成什么关系吗？
+		</Question>
+		<Answer>
+			尾流强度与飞机重量和载荷因数成正比
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为机组，你知道飞机的尾流强度与飞行速度、空气密度和翼展长度成什么关系吗？
+		</Question>
+		<Answer>
+			尾流强度与飞行速度、空气密度和翼展长度成反比
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			请说出平行跑道同时仪表运行的四种运行模式
+		</Question>
+		<Answer>
+			独立平行仪表进近模式、相关平行仪表进近模式、独立平行离场模式和隔离平行运行模 式。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			跑作为飞行员，如果你想让对方帮助测试你所在航空器上的信号如何时，你应该 使用什 么词组？如果对方回复是“3”，表明什么？
+		</Question>
+		<Answer>
+			使用词组“无线电检查”(Radio Check)；“3 ”表明能听清但很困难。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当你所监听的电台里发布“ALL STATION STOP TRANSMITTING，MAYDAY”的信息 时，作 为机组你应该怎么做？
+		</Question>
+		<Answer>
+			保持缄默，不在当前波道进行无线电通讯，除非你所处的航空器也处于遇险情况。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			假如你在空中发现左发火警，在你宣布遇险后，在当前频率里仍有航空器在 进行语音 通讯，影响你与管制员的通讯，你应该如何做？
+		</Question>
+		<Answer>
+			在当前频率发布“ALL STAIONS,STOP TRANSMITTING. MAYDAY”
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			空中交通管制可以看作是一个很多参与者用各种不尽相同的英语进行交流的过 程，这 个交流将会受到语言熟练程度及地方语言的影响。对于飞行员来说，国 际飞行从某种 意义上讲是一种经历各种不同文化和语言的过程。这导致在飞行 员与管制员之间存在 了很多交流问题，在这些问题中大致可以分为哪几个种情况？
+			飞行员与管制员之间存在的交流问题可分为：
+		</Question>
+		<Answer>
+			错误的信息、失去情景意识、缺少共同 的情景 模式和期盼倾向四种情况。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			飞行员与管制员申请机场气象信息，收到：地面风 040 度 5 米每秒，能见度 5000m, 少 云 300 米，温度 19 度，露点 10 度，修正海压 1008 百帕。作为申请气象信息的飞行应 该如何复诵？
+		</Question>
+		<Answer>
+			修正海压 1008 百帕
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			进近非精密进近时，如果不适用连续下降最终进近技术，那么对于 A、B 类飞机来说， 我们应该如何确定着陆最低标准？
+		</Question>
+		<Answer>
+			RVR/VIS 应至少增加 200 米
+
+		</Answer>
+	</Ques><Ques id="1">
+	<Mark>0</Mark>
+	<Question>
+		确认天气是否满足起飞标准时，如果接地区 RVR 设备故障，我们该怎么办？
+	</Question>
+	<Answer>
+		可以使用中间点 RVR 代替；也可以目测估算。如果都不行，只能使用能见度标准。
+	</Answer>
+</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			在一个使用场压 QFE 的机场做非精密进近，航图上的 MDH 是哪个高度作为高度基准 面？
+		</Question>
+		<Answer>
+			MDH 以机场标高为基准，如果入口标高在机场标高之下 2 米以上，则以入口标高为基 准。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			作为机组，在 DA/H 或 MDA/H，你需要看到哪些目视参考才能继续下降进近？
+		</Question>
+		<Answer>
+			进近灯光系统；跑道入口；跑道入口标志；跑道入口灯；跑道入口标识灯；目视进近坡 度指示系统；接地区或接地区标志；跑道接地带灯（ RTZL）；跑道边灯；局方认可的其 它目视参考。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			RVR 数值的大小与跑道灯光的强度是否有关？当 RVR 小于飞机起飞要求的数值时，飞 行员可以提醒机场当局做什么？
+		</Question>
+		<Answer>
+			RVR 数值的大小与跑道灯光的强度有关。当 RVR 小于飞机起飞要求的数值时，应考虑 将跑道灯光强度调大直至最强（5 级灯光），以提高飞机运行的正常性。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			你作为机长，准备在境内某标高为 75M/250FT 的机场作 VOR/DME 进近，该机场使 用 修正海压。该进近的最低标准为 MDA 150M/500FT、能见度 800M，你收到的气象实况 为 CALM 9999 OVC090。你预计在 MDA 能否建立所需目视参考吗？为什么？
+		</Question>
+		<Answer>
+			预 计 能 够 建 立 所 需 目 视 参 考 。 云 底 高 是 指 云 底 距 机 场 标 高 的 垂 直 距 离 ， 此 例 中 为 90M(300FT),实际的云底高度应为修正海 压 165M(550FT)。云底高和能见度均大于该进 近的最低标准。
+
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			你作为机长，准备在某机场作 VOR/DME 进近，航图显示该进近程序的最低标准为 MDA 200M/660FT VIS1200，未公布 RVR 标准。当前气象实况为 RVR1300/VIS1100 。请问你是否可以开始此次进近？为什么？
+		</Question>
+		<Answer>
+			可以开始进近。因为同时获得 RVR 和 VIS 值时，以 RVR 为准。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			如果你驾驶 B 类飞机，飞的目的地机场只能做不适用 CDFA 技术的非精密进近时， 能 见度/RVR 最低标准增加多少米？
+		</Question>
+		<Answer>
+			能见度/RVR 最低标准增加 200 米
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			如果你驾驶 B 类飞机，飞的目的地机场只能做不适用 CDFA 技术的非精密进近时， 能 见度/RVR 最低标准增加多少米？
+		</Question>
+		<Answer>
+			能见度/RVR 最低标准增加 200 米
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			某日，某机场因天气需要执行目视盘旋进近程序，你可以使用 CDFA 技术吗？
+		</Question>
+		<Answer>
+			目视盘旋进近不适用 CDFA 技术
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			请问除了非精密进近程序所要求的设备外,非精密进近中使用 CDFA 技术需不需要 特殊 的航空器设备?
+		</Question>
+		<Answer>
+			CDFA 技术不需要特殊的航空器设备
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			请问，在非精密进近过程中使用 CDFA 技术时，针对只具备基本导航能力的机 型，是否 有机型限制？
+		</Question>
+		<Answer>
+			没有。各机型（即使是只具备基本导航能力的 机型）均能够使用 CDFA 技术。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			实施 CDFA 技术进近时，飞行员必须在公布的最低下降高度/高以上的的某一高度 /高实 施复飞，例如：在公布的最低下降高度/高上增加 50 英尺开始复飞，目的是什么？
+		</Question>
+		<Answer>
+			确保航空器不会下降到公布的最低下降高度/高以下。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			用 CDFA 技术做非精密进近，当飞机沿最后进近的垂直轨迹下降到 DDA，什么情况下可 以继续下降至着陆？
+		</Question>
+		<Answer>
+			清楚看到和辨认要求的目视参考，并且具备着陆条件时方可继续下降至着陆
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			如果你驾驶 B 类飞机，飞的目的地机场只能做不适用 CDFA 技术的非精密进近时， 能 见度/RVR 最低标准增加多少米？
+		</Question>
+		<Answer>
+			能见度/RVR 最低标准增加 200 米
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			根据稳定进近要求，从某一个高度至着陆接地区，应保持航空器下降率不大于 1000 英 尺每分钟。请问在仪表气象条件下和目视气象条件下，这个高度分别是飞机高于跑道入 口标高多少英尺？
+		</Question>
+		<Answer>
+			仪表气象条件下飞机高于跑道入口标高 1000 英尺；目视气象条件下高于跑道入口标高 500 英尺。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			如果某机场的非精密进近中未公布下降梯度，是否可以使用 CDFA 进近？
+		</Question>
+		<Answer>
+			此情况不适用 CDFA
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			CDFA 是一种与稳定进近相关的飞行技术，在非精密仪表进近程序的最后进近阶段，连 续下降到该机型拉平开始的操作点，或着陆跑道入口高大约多少英尺的点？
+		</Question>
+		<Answer>
+			50 英尺
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			请简述在非精密进近中采取固定下降角的目的是什么？
+		</Question>
+		<Answer>
+			使用固定下降角的进近剖面可以提供一个更稳定的飞行航迹，通过减少飞行机组的工作 负荷达到降低非精密进近风险的目的。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			假如你正在山区机场采用 CDFA 技术的 VOR 进近中，如果在复飞点前飞机出现故障你决定复飞，副驾驶建议你立即开始转弯。在未取得空中交通管制的指令前， 你将怎么做？
+		</Question>
+		<Answer>
+			在取得管制员指令之前应按照公布的复飞程序飞行，在飞越复飞点后才可以起始沿公布 的复飞程序转弯。
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			假如你飞南京/禄口机场执行 VOR/DME RWY24 仪表进近程序，公布的垂直下降梯 度是 5.2%，地速是 120kt 时，直接查出需要的下降率是 630ft/min；地速是 140kt 时，直接查 出需要的下降率是 740ft/min；如果地速是 130kt，根据插值法可以 计算出需要的下降 率是？
+		</Question>
+		<Answer>
+			685 英尺/分钟
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当在国内某机场实施 CDFA 进近时，所携带的中国民航局公布的仪表进近图中提供了下 降率表，但没有你所对应的地速的下降率。你该怎么办？
+		</Question>
+		<Answer>
+			飞行员可以使用这个表，根据地速使用插值法，计算出使用 CDFA 技术所需要的下降率。
+
+		</Answer>
+	</Ques>
+	<Ques id="1">
+		<Mark>0</Mark>
+		<Question>
+			当在国内某机场实施 CDFA 进近时，所携带的中国民航局公布的仪表进近图中提供了下 降率表，但你的飞机没有地速测算和显示功能。你该怎么办？
+		</Question>
+		<Answer>
+			对于没有地速测算和显示功能的飞机，飞行员可利用表速估算出地速，并按仪表进近图 中的下降率表，根据地速直接查出或使用插值法计算出使用 CDFA 技术所需要的下降率
+		</Answer>
+	</Ques>
+	</OralTest>
