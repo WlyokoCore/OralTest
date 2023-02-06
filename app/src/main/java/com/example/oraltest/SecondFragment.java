@@ -194,8 +194,6 @@ public class SecondFragment extends Fragment {
                     alertDialog.show();
 
                 }
-
-
                 NavHostFragment.findNavController(SecondFragment.this)
                         .navigate(R.id.action_SecondFragment_to_FirstFragment);
             }

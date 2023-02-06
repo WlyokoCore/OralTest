@@ -120,11 +120,6 @@ public class FirstFragment extends Fragment {
         });
 
 
-
-
-
-
-
         binding.buttonFirst1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
